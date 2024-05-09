@@ -1,0 +1,500 @@
+{
+  "restaurantes": [
+    {
+      "nombre": "Sharewood Pilar",
+      "opiniones": 203,
+      "estado": "Cerrado ahora",
+      "categoria": "Bar, Argentina",
+      "precio": "$$ - $$$",
+      "descripcion": "Sharewood",
+      "comentario": "Muy bueno!"
+    },
+    {
+      "nombre": "Restaurante 1888",
+      "opiniones": 332,
+      "estado": "Cerrado hoy",
+      "categoria": "Mediterránea, Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "8.4 km",
+      "ubicacion": "Manzanares",
+      "comentario": "El lugar es un ambiente de hogar Pocos lugares como este."
+    },
+    {
+      "nombre": "La Cabrera Pilar",
+      "opiniones": 325,
+      "estado": "Cerrado ahora",
+      "categoria": "Churrasquería, Parrillada",
+      "precio": "$$ - $$$",
+      "comentario": "Para qué ir a Palermo!? Excelente comida, lugar y servicio"
+    },
+    {
+      "nombre": "Cornelio Restaurante",
+      "opiniones": 428,
+      "estado": "Cerrado hoy",
+      "categoria": "Italiana, Mariscos",
+      "precio": "$$$$",
+      "comentario": "Excelente resto Italiano Excelente lugar y ambientación"
+    },
+    {
+      "nombre": "Ristorante Fettuccine Mario",
+      "opiniones": 428,
+      "estado": "Abierto ahora",
+      "categoria": "Italiana, Mediterránea",
+      "precio": "$$$$",
+      "comentario": "Restaurante de pastas Histórico en Pilar"
+    },
+    {
+      "nombre": "Kansas Grill Pilar",
+      "opiniones": 1506,
+      "estado": "Cerrado ahora",
+      "categoria": "Estadounidense, Churrasquería",
+      "precio": "$$ - $$$",
+      "comentario": "El mejor de los Kansas Yyy hoy no estuvo bueno"
+    },
+    {
+      "nombre": "Rock&Feller's Pilar",
+      "opiniones": 642,
+      "estado": "Abierto ahora",
+      "categoria": "Estadounidense, Bar",
+      "precio": "$$ - $$$",
+      "comentario": "Excelente propuesta Lindo pero precios injustificados"
+    },
+    {
+      "nombre": "La Parolaccia Trattoria",
+      "opiniones": 807,
+      "categoria": "Italiana, Mediterránea",
+      "precio": "$$ - $$$",
+      "comentario": "Volvimos y valió la pena."
+    },
+    {
+      "nombre": "La Garza Lola Restaurant",
+      "opiniones": 247,
+      "estado": "Cerrado hoy",
+      "categoria": "Churrasquería, Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "15.2 km",
+      "ubicacion": "Open Door",
+      "comentario": "Vamos a volver!!! Nos encantó la Garza Lola !!"
+    },
+    {
+      "nombre": "Don Giovanni",
+      "opiniones": 112,
+      "categoria": "Italiana, Argentina",
+      "precio": "$$$$",
+      "comentario": "Increíble! Excelente experiencia!!"
+    },
+    {
+      "nombre": "La Vinería Winebar",
+      "opiniones": 24,
+      "estado": "Cerrado hoy",
+      "categoria": "Mediterránea, Delicatessen",
+      "precio": "$$$$",
+      "distancia": "10 km",
+      "ubicacion": "Del Viso",
+      "comentario": "Exelente restaurant!!! Excelente"
+    },
+    {
+      "nombre": "Degusta Cocina de Autor",
+      "opiniones": 111,
+      "estado": "Cerrado ahora",
+      "categoria": "Mediterránea, Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "15.7 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Excelente lugar! Excelente!!!!"
+    },
+    {
+      "nombre": "Las Vasijas Restaurante",
+      "opiniones": 317,
+      "estado": "Cerrado ahora",
+      "categoria": "Internacional, Argentina",
+      "precio": "$$$$",
+      "distancia": "15.2 km",
+      "ubicacion": "Open Door",
+      "comentario": "Hermoso lugar y muy buena comida. Excelente lugar !!!"
+    },
+    {
+      "nombre": "Pizza Cero",
+      "opiniones": 188,
+      "categoria": "Pizzería, Argentina",
+      "precio": "$$ - $$$",
+      "comentario": "Lugar tranquilo. Almuerzo o cena"
+    },
+    {
+      "nombre": "Los Belatti",
+      "opiniones": 72,
+      "estado": "Cerrado ahora",
+      "categoria": "Argentina, Sudamericana",
+      "precio": "$$ - $$$",
+      "comentario": "Super recomendable Cena"
+    },
+    {
+      "nombre": "Su Casa Restaurante Pilar",
+      "opiniones": 166,
+      "estado": "Cerrado ahora",
+      "categoria": "Mariscos, Mediterránea",
+      "precio": "$$ - $$$",
+      "comentario": "Cena familiar No es barato, pero la comida es muy buena"
+    },
+    {
+      "nombre": "SushiClub",
+      "opiniones": 115,
+      "estado": "Abierto ahora",
+      "categoria": "Japonesa",
+      "precio": "$$$$",
+      "comentario": "Exquisita mezcla de sabores Un clásico"
+    },
+    {
+      "nombre": "Las Juanas",
+      "opiniones": 130,
+      "estado": "Cerrado ahora",
+      "categoria": "Internacional, Mediterránea",
+      "precio": "$$ - $$$",
+      "comentario": "Fuimos con amigos Agradable!!"
+    },
+    {
+      "nombre": "La Tucumanita",
+      "opiniones": 109,
+      "categoria": "Argentina",
+      "precio": "$$ - $$$",
+      "comentario": "Cena con amigos Ambiente norteño auténtico!"
+    },
+    {
+      "nombre": "Tinto y Soda",
+      "opiniones": 358,
+      "categoria": "Churrasquería, Parrillada",
+      "precio": "$$ - $$$",
+      "comentario": "Si respetaran la ley, sería completo. Opción para el mediodía"
+    },
+    {
+      "nombre": "La Cantina de Mario",
+      "opiniones": 79,
+      "estado": "Cerrado ahora",
+      "categoria": "Italiana",
+      "precio": "$$ - $$$",
+      "comentario": "Linda visita Cantina familiar"
+    },
+    {
+      "nombre": "Parrilla Carlitos y Pastas Elsa",
+      "opiniones": 49,
+      "categoria": "Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "12.5 km",
+      "ubicacion": "Tortuguitas",
+      "comentario": "Grato momento Buena comida...."
+    },
+    {
+      "nombre": "Almacen De Pizzas",
+      "opiniones": 123,
+      "categoria": "Italiana, Pizzería",
+      "precio": "$$ - $$$",
+      "comentario": "Algo cambio! Buena opción, buena pizza"
+    },
+    {
+      "nombre": "Pulpa",
+      "opiniones": 27,
+      "estado": "Cerrado ahora",
+      "precio": "$$ - $$$",
+      "comentario": "Lo mejor de lo mejor Genial opción en Pilar"
+    },
+    {
+      "nombre": "Le Tite Club",
+      "opiniones": 15,
+      "estado": "Cerrado ahora",
+      "categoria": "Pizzería, Comida de calle",
+      "precio": "$$ - $$$",
+      "distancia": "15.9 km",
+      "ubicacion": "General Rodríguez",
+      "comentario": "Sublime Excelente atención y cómoda. Precios un poco elevados"
+    },
+    {
+      "nombre": "El Club",
+      "opiniones": 88,
+      "categoria": "Argentina, Sudamericana",
+      "precio": "$$ - $$$",
+      "distancia": "15.6 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Muy buena opción Muy buen restaurant familiar"
+    },
+    {
+      "nombre": "Puro Escabio Bar",
+      "opiniones": 12,
+      "estado": "Abierto ahora",
+      "categoria": "Bares y pubs, Estadounidense",
+      "precio": "$",
+      "distancia": "12.6 km",
+      "ubicacion": "Del Viso",
+      "comentario": "\"Festejo de cumpleaños\" Cena"
+    },
+    {
+      "nombre": "La Gringa Pizza & Pasta",
+      "opiniones": 68,
+      "estado": "Cierra en 14 minutos",
+      "categoria": "Italiana, Pizzería",
+      "precio": "$$ - $$$",
+      "comentario": "Muy bueno. EXCELENTE!!!!"
+    },
+    {
+      "nombre": "El Chango",
+      "opiniones": 36,
+      "categoria": "Argentina, Sudamericana",
+      "precio": "$$ - $$$",
+      "distancia": "15.1 km",
+      "ubicacion": "Open Door",
+      "comentario": "Un lugar entrañable Almuerzo de trabajo"
+    },
+    {
+      "nombre": "Babette",
+      "opiniones": 28,
+      "estado": "Cerrado ahora",
+      "categoria": "Latina, Española",
+      "precio": "$$ - $$$",
+      "comentario": "Menú a la carta muy bueno Excelente atención y cómoda. Precios un poco elevados"
+    },
+    {
+      "nombre": "El Colorado Parrilla Y Vinos",
+      "opiniones": 12,
+      "estado": "Cerrado hoy",
+      "categoria": "Parrillada, Parrilla",
+      "precio": "Menú",
+      "distancia": "8.1 km",
+      "ubicacion": "Manzanares",
+      "comentario": "PARRILLA NUMBER ONE DE PILAR Super Recomendable!!!"
+    },
+    {
+      "nombre": "Alma Natura",
+      "opiniones": 13,
+      "estado": "Cerrado ahora",
+      "categoria": "Saludable, Argentina",
+      "precio": "$$ - $$$",
+      "comentario": "Vale la pena. Alma Natura en Colectora Panamericana KM 54.5, Champagnat."
+    },
+    {
+      "nombre": "Good & Green",
+      "opiniones": 51,
+      "estado": "Cerrado ahora",
+      "categoria": "Saludable",
+      "precio": "$$ - $$$",
+      "distancia": "11.5 km",
+      "ubicacion": "Buenos Aires",
+      "comentario": "Excelente atención y excelente comida Comida sana"
+    },
+    {
+      "nombre": "Cayena",
+      "opiniones": 47,
+      "categoria": "Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "15.7 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Estaba bueno. Risotto"
+    },
+    {
+      "nombre": "Selvática",
+      "opiniones": 46,
+      "estado": "Abierto ahora",
+      "categoria": "Peruana, Mariscos",
+      "precio": "$$ - $$$",
+      "comentario": "Encargado Mal costo beneficio"
+    },
+    {
+      "nombre": "Cerveceria La Reserva",
+      "opiniones": 43,
+      "estado": "Cerrado hoy",
+      "categoria": "Alemana, Irlandesa",
+      "precio": "$$ - $$$",
+      "distancia": "15.2 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Picada, espacio y cerveza. Mantienen todo lo bueno, muy buena comida y cerveza artesanal"
+    },
+    {
+      "nombre": "Club Cervecero Blest Pilar",
+      "opiniones": 22,
+      "categoria": "Bares y pubs, Bar",
+      "precio": "$$ - $$$",
+      "comentario": "Buen lugar para tomar una cerveza con amigos Garantía de buena cerveza y rica comida"
+    },
+    {
+      "nombre": "Arturo Cervecerias",
+      "opiniones": 9,
+      "estado": "Abierto ahora",
+      "categoria": "Argentina, Sudamericana",
+      "distancia": "15.6 km",
+      "ubicacion": "General Rodríguez",
+      "comentario": "Buena onda, birras y algo mas!!! La mejor cervecería de Rodríguez"
+    },
+    {
+      "nombre": "Pizzeria Jr",
+      "opiniones": 30,
+      "categoria": "Pizzería, Argentina",
+      "precio": "$",
+      "distancia": "16 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Riquísima Pizza!!!"
+    },
+    {
+      "nombre": "Margarita Comida Mexicana",
+      "opiniones": 51,
+      "categoria": "Mexicana",
+      "precio": "$$ - $$$",
+      "comentario": "LUGAR COMODO Y BUENA COMIDA Muy buena opción en Maschwitz"
+    },
+    {
+      "nombre": "Fabric Sushi Pilar",
+      "opiniones": 77,
+      "categoria": "Japonesa, Sushi",
+      "precio": "$$ - $$$",
+      "comentario": "Me gusta, sushi y comida peruana de calidad, buen servicio y atención BUENO"
+    },
+    {
+      "nombre": "Galpon 50",
+      "opiniones": 3,
+      "estado": "Abierto ahora",
+      "categoria": "Estadounidense, Argentina",
+      "comentario": "Pintoresco y bonito lugar. Bar"
+    },
+    {
+      "nombre": "Tartaruga",
+      "opiniones": 35,
+      "estado": "Cerrado ahora",
+      "categoria": "Pizzería, Sudamericana",
+      "precio": "$$ - $$$",
+      "comentario": "Pizza y empanadas Pizza aceptable, empanadas diminutas"
+    },
+    {
+      "nombre": "Ley Primera",
+      "opiniones": 34,
+      "categoria": "Churrasquería, Parrillada",
+      "precio": "$$ - $$$",
+      "comentario": "Buena parrilla Recomendable"
+    },
+    {
+      "nombre": "Casa Cortazar",
+      "opiniones": 21,
+      "categoria": "Argentina, Sudamericana",
+      "precio": "$$ - $$$",
+      "distancia": "10.4 km",
+      "ubicacion": "General Rodríguez",
+      "comentario": "Almuerzo de trabajo Hermoso lugar y tranquilo"
+    },
+    {
+      "nombre": "La Perdiz Restaurant",
+      "opiniones": 31,
+      "categoria": "Sudamericana",
+      "precio": "$$ - $$$",
+      "distancia": "13.4 km",
+      "ubicacion": "Open Door",
+      "comentario": "Platos acotados pero muy buenos Un buen lugar"
+    },
+    {
+      "nombre": "Mess Cocina",
+      "opiniones": 15,
+      "estado": "Cerrado ahora",
+      "categoria": "Del Medio Oriente",
+      "precio": "$$$$",
+      "distancia": "11.2 km",
+      "ubicacion": "Del Viso",
+      "comentario": "Muy recomendable Romántico y agradable"
+    },
+    {
+      "nombre": "Brioche Doree Palmas de Pilar",
+      "opiniones": 53,
+      "estado": "Cerrado ahora",
+      "precio": "$$ - $$$",
+      "comentario": "La calidad de siempre y buena atención Buen café y cosas ricas para merendar"
+    },
+    {
+      "nombre": "Pizza Cero",
+      "opiniones": 69,
+      "categoria": "Pizzería, Argentina",
+      "precio": "$$ - $$$",
+      "comentario": "Ya no es lo que era antes, es aceptable si vas. Delevery malo Mantiene su calidad y servicio"
+    },
+    {
+      "nombre": "Cork Brewing Co.",
+      "opiniones": 33,
+      "estado": "Abierto ahora",
+      "categoria": "Contemporánea, Argentina",
+      "precio": "$$ - $$$",
+      "comentario": "Excelente cerveza! Una gran alternativa."
+    },
+    {
+      "nombre": "La cocina de Nucha",
+      "opiniones": 19,
+      "categoria": "Sudamericana",
+      "precio": "$$ - $$$",
+      "distancia": "15.8 km",
+      "ubicacion": "Belén de Escobar",
+      "comentario": "Comida en lo de la nucha Hermoso y cómodo lugar"
+    },
+    {
+      "nombre": "Yoko's Sushi Bar & China Grill",
+      "opiniones": 113,
+      "estado": "Cerrado ahora",
+      "categoria": "Peruana, Sushi",
+      "precio": "$$ - $$$",
+      "comentario": "Delicioso. Rápido y de costo razonable. Nada especial"
+    },
+    {
+      "nombre": "Verde Food And Beer",
+      "opiniones": 4,
+      "estado": "Cerrado hoy",
+      "precio": "$",
+      "distancia": "15.7 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Tenés que ir! RECOMENDABLE"
+    },
+    {
+      "nombre": "La 2001 comidas y delivery",
+      "opiniones": 19,
+      "categoria": "Pizzería, Argentina",
+      "precio": "$$ - $$$",
+      "distancia": "15.7 km",
+      "ubicacion": "Los Cardales",
+      "comentario": "Ambiente familiar, y atendido por sus dueños Muy buenas empanadas"
+    },
+    {
+      "nombre": "Yugo",
+      "opiniones": 13,
+      "estado": "Cerrado ahora",
+      "categoria": "Sushi, Fusión",
+      "precio": "$$$$",
+      "comentario": "Perfecto TREMENDO !!!!"
+    },
+    {
+      "nombre": "The Taco Box",
+      "opiniones": 150,
+      "categoria": "Mexicana, Latina",
+      "precio": "$$ - $$$",
+      "comentario": "Comida rica, bastante caro Bien en precio y calidad"
+    },
+    {
+      "nombre": "Monthys Roadhouse",
+      "opiniones": 29,
+      "estado": "Cerrado ahora",
+      "categoria": "Estadounidense",
+      "precio": "$$ - $$$",
+      "distancia": "10.7 km",
+      "ubicacion": "Del Viso",
+      "comentario": "Precios muy elevados!! Buena opción"
+    },
+    {
+      "nombre": "Frik's",
+      "opiniones": 85,
+      "estado": "Cerrado ahora",
+      "categoria": "Café y té, Café",
+      "precio": "$$ - $$$",
+      "comentario": "BUEN LUGAR PARA CAFE, ALMUERZO RAPIDO, DESAYUNO, MERIENDA Excelentes desayunos y meriendas con panes caseros y rico cafe."
+    },
+    {
+      "nombre": "Sushi Bunka",
+      "opiniones": 16,
+      "estado": "Cerrado ahora",
+      "categoria": "Japonesa, Sushi",
+      "precio": "$$ - $$$",
+      "distancia": "15.9 km",
+      "ubicacion": "Belén de Escobar",
+      "comentario": "Muy buen servicio Muy ricos sushi 🍣 Pedir en línea"
+    }
+  ]
+}
+
